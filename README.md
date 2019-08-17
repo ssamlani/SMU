@@ -1,2 +1,2 @@
 # SMU
-SMU Homework
+SMU_Homework
